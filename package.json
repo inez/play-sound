@@ -1,0 +1,23 @@
+{
+  "name": "play-sound",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inez/play-sound.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inez/play-sound/issues"
+  },
+  "homepage": "https://github.com/inez/play-sound#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "play-sound": "^1.1.3"
+  }
+}
